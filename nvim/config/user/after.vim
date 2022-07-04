@@ -44,8 +44,8 @@ highlight link ALEVirtualTextInfo ALEVirtualTextWarning
 highlight link ALEVirtualTextStyleWarning ALEVirtualTextWarning
 
 let g:ale_fixers = {
-\   'typescript': ['prettier'],
-\   'javascript': ['prettier'],
+\   'typescript': ['prettier', 'eslint'],
+\   'javascript': ['prettier', 'eslint'],
 \}
 
 let g:ale_linters = {

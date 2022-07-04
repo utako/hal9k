@@ -3,6 +3,6 @@
 " Plug '~/my-prototype-plugin'
 " ...
 
-" Plug 'prettier/vim-prettier', {
-"   \ 'do': 'npm install',
-"   \ 'for': ['javascript', 'typescript'] }
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'npm install',
+  \ 'for': ['javascript', 'typescript'] }
