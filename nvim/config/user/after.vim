@@ -5,10 +5,10 @@
 " let g:gitgutter_signs = 0 " No git gutter signs
 " let g:SignatureEnabledAtStartup = 0 " Do not show marks
 " nmap s :MultipleCursorsFind
-" colorscheme base16-gruvbox-dark-pale
-colorscheme base16-gruvbox-light-hard
-set background=light
-let g:lightline['colorscheme'] = 'gruvbox'
+colorscheme base16-gruvbox-dark-hard
+" colorscheme base16-gruvbox-light-hard
+" set background=light
+" let g:lightline['colorscheme'] = 'gruvbox'
 
 " Indentation
 set expandtab             " Tabs are spaces, not tabs
