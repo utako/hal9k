@@ -1,12 +1,12 @@
 [user]
-	name = Utako Ueda
-  email = REDACTED
+  name = Utako Ueda
+  email = utako.ueda@calm.com
 [core]
-	editor = nvim
+  editor = nvim
 [alias]
-	co = checkout
-	br = branch
-	ci = commit
-	st = status
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
 [init]
-	defaultBranch = main
+  defaultBranch = main
