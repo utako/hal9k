@@ -1,0 +1,12 @@
+[user]
+	name = Utako Ueda
+  email = REDACTED
+[core]
+	editor = nvim
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[init]
+	defaultBranch = main
