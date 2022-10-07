@@ -8,6 +8,6 @@
 	br = branch
 	ci = commit
 	st = status
-  sha = 'git rev-list HEAD | head -1'
+  sha = "!git rev-list HEAD | head -1"
 [init]
   defaultBranch = main
