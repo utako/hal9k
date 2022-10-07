@@ -20,6 +20,7 @@ cask "spectacle"
 cask "font-roboto-mono-for-powerline"
 cask "font-hack-nerd-font"
 cask "docker"
+cask "discord"
 
 ### Mac Apple Store
 
