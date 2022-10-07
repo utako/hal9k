@@ -5,6 +5,7 @@
 *.swp
 *.swo
 *~
+**/Brewfile.lock.json
 
 # Systems
 **/.DS_Store

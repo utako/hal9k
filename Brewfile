@@ -7,21 +7,21 @@ brew "ripgrep"
 brew "tmux"
 brew "gnu-sed"
 brew "neovim"
-brew "docker"
 brew "ruby-install"
 brew "chruby"
 brew "direnv"
 brew "wget"
 brew "svn"
+brew "gh"
 
 cask "zoom"
 cask "spectacle"
 cask "font-roboto-mono-for-powerline"
 cask "font-hack-nerd-font"
+cask "docker"
 
 ### Mac Apple Store
 
 mas "XCode", id: 497799835
 mas "1Password", id: 1333542190
-
-### Calm
+mas "Flycut", id: 442160987
