@@ -26,3 +26,7 @@ cask "docker"
 mas "XCode", id: 497799835
 mas "1Password", id: 1333542190
 mas "Flycut", id: 442160987
+
+### Calm & Talos
+brew "helm"
+brew "fzf"
