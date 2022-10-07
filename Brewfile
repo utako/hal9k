@@ -13,6 +13,7 @@ brew "direnv"
 brew "wget"
 brew "svn"
 brew "gh"
+brew "fasd"
 
 cask "zoom"
 cask "spectacle"
