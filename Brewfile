@@ -14,6 +14,7 @@ brew "wget"
 brew "svn"
 brew "gh"
 brew "fasd"
+brew "pyenv"
 
 cask "zoom"
 cask "spectacle"
