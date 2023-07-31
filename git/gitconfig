@@ -11,3 +11,5 @@
   sha = "!git rev-list HEAD | head -1"
 [init]
   defaultBranch = main
+[checkout]
+  defaultRemote=origin
