@@ -1,6 +1,8 @@
 [user]
   name = Utako Ueda
   email = utako.ueda@calm.com
+[includeIf "gitdir:~/workspace/personal/"]
+    path = ~/workspace/personal/.gitconfig
 [core]
   editor = nvim
 [alias]

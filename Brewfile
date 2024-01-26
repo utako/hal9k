@@ -17,6 +17,13 @@ brew "svn"
 brew "tmux"
 brew "tree"
 brew "wget"
+brew "lua"
+brew "lua-language-server"
+brew "luarocks"
+brew "mercurial"
+brew "htop"
+brew "shellcheck"
+brew "golangci-lint"
 
 cask "zoom"
 cask "spectacle"
@@ -25,6 +32,9 @@ cask "font-hack-nerd-font"
 cask "docker"
 cask "discord"
 cask "notion"
+cask "visual-studio-code"
+cask "google-cloud-sdk"
+
 
 ### Mac Apple Store
 
